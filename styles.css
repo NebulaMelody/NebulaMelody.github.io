@@ -6,7 +6,8 @@ body{
 
 h1{
   text-decoration: underline;
-  font-style: italic
+  font-style: italic;
+    color: red;
 }
 
 h2{
